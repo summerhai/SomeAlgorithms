@@ -1,5 +1,11 @@
 package minglaihan.somealgorithms;
 
+/*
+ * @author:laiming.han
+ * @date:2015.9.25
+ * 题目：今日头条笔试遇到的：给定一个数组A={2,4,9}，给定一个数字n，求数组A中组合数字不大于n的最大数。
+ * 例如n=23213，则result=22999。
+ */
 public class FindNearestNFromA {
 	public static void main(String[] args) {
 		int[] A = {2,4,9,0};
