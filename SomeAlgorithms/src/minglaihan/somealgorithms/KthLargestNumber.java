@@ -5,7 +5,7 @@ import java.util.Collections;
 
 public class KthLargestNumber {
 	public static void main(String[] args) {
-		ArrayList<Integer> numbers = new ArrayList<>();
+		ArrayList<Integer> numbers = new ArrayList<Integer>();
 		numbers.add(1);
 		numbers.add(1);
 		numbers.add(3);
