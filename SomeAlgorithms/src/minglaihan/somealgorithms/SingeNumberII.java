@@ -35,6 +35,7 @@ public class SingeNumberII {
         return singleNumber;
     }
     
+    
     //2：位运算
 	// Time: O(n), space: O(1)
 	// 基本思想是每个数都可以表示成二进制形式，进而统计每个数在每一位出现的次数
